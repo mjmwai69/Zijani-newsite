@@ -1,0 +1,4 @@
+/* Content-management controls are intentionally unavailable to public visitors. */
+.poster-heading .add-poster,
+.poster-help,
+.impact-editor { display: none !important; }
